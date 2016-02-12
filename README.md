@@ -1,2 +1,3 @@
 # hello-world
-First step in Prep program
+
+I'm Will.  I am an excellent designer but a terrible programmer.
